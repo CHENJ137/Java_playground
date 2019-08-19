@@ -1,0 +1,5 @@
+iPhone,4999,10
+iPad,2999,10
+iPod,999,10
+apple,10,999
+Cup Cake,11,11
