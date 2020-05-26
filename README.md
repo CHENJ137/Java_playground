@@ -3,4 +3,4 @@
 Simple Products Management System.
 
 How to use: 
-> open terminal at folder and run login.sh
+* open terminal at folder and run login.sh
